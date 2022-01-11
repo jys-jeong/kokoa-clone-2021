@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@95.7,381&display=swap");
+@import "status.css";
+@import "reset.css";
+@import "header.css";
+@import "variable.css";
+@import "form.css";
+body {
+  font-family: "Open Sans", sans-serif;
+}
